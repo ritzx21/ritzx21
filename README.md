@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ritika
-- 👀 I’m interested in Game Development and Designing
-- 🌱 I’m currently learning Unity and AR/VR
+- 🌱 I’m currently learning about Machine Learning and Deep Learning
 - 📫 How to reach me .... https://www.linkedin.com/in/ritika-chatterjee-7bab94247/
 
 <!---
