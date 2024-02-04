@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritika</h1>
 <h3 align="center">A Machine Learning enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritzx21" alt="ritzx21" /></a> </p>
-
-- 🌱 I’m currently learning **Deep Learning , Machine Learning and Data Analysis**
+- 🌱 I’m currently learning **Deep Learning , LLMs**
 
 - 👨‍💻 All of my projects are available at [https://ritika.rf.gd/](https://ritika.rf.gd/)
 
