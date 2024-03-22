@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Deep Learning , LLMs**
 
-- 👨‍💻 All of my projects are available at [https://ritika.rf.gd/](https://ritika.rf.gd/)
-
 - 📝 I regularly write articles on [https://medium.com/@ritzx21](https://medium.com/@ritzx21)
 
 - 📫 How to reach me **https://www.linkedin.com/in/ritika-chatterjee-7bab94247/**
